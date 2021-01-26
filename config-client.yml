@@ -17,8 +17,8 @@ eureka:
       defaultZone: http://localhost:7001/eureka/
 
 ---
-server:
-  port: 3355
+#server:
+#  port: 3355
   
 spring:
   application:
